@@ -16,11 +16,15 @@
     <!--GOOGLE FONT -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <!--BOOTSTRAP MAIN STYLES -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+   
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    
     <!--FONTAWESOME MAIN STYLE -->
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+   
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
     <!--CUSTOM STYLE -->
-    <link href="assets/css/style.css" rel="stylesheet" />
+   
+    <link href="Content/style.css" rel="stylesheet" />
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -51,12 +55,16 @@
     <!--END FOOTER SECTION --> 
     <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
     <!-- CORE JQUERY LIBRARY -->
-    <script src="assets/js/jquery.js"></script>
+   
+    <script src="Scripts/jquery.js"></script>
     <!-- CORE BOOTSTRAP LIBRARY -->
-    <script src="assets/js/bootstrap.min.js"></script>
+   
+    <script src="Scripts/bootstrap.min.js"></script>
      <!-- SCROLL REVEL LIBRARY FOR SCROLLING ANIMATIONS-->
-    <script src="assets/js/scrollReveal.js"></script>
+   
+    <script src="Scripts/scrollReveal.js"></script>
        <!-- CUSTOM SCRIPT-->
-    <script src="assets/js/custom.js"></script>
+   
+    <script src="Scripts/custom.js"></script>
 </body>
 </html>
