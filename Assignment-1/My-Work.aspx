@@ -62,7 +62,7 @@
                 <div class="col-md-10  col-md-offset-1 ">
  <div class="col-md-4 col-sm-4" data-scrollreveal="enter left and move 100px, wait 0.8s">
                     <!--<img src="assets/img/product/prd1.png" alt="">-->
-                     <img src="Assets/img/Event-booking.jpg"  height="400%" width="100%">
+                  <img src="Assets/img/invoice_payment_form.png"  height="200" width="300"/>
                 </div>
                 <div class="col-md-8 " data-scrollreveal="enter right and move 100px, wait 0.4s">
                     <h4 >  <strong class="color-red">Payment Gateway </strong></h4>

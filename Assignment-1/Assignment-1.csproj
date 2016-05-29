@@ -70,6 +70,7 @@
     <Content Include="Assets\img\camera duino.jpeg" />
     <Content Include="Assets\img\Event-booking.jpg" />
     <Content Include="Assets\img\home.jpg" />
+    <Content Include="Assets\img\invoice_payment_form.png" />
     <Content Include="Assets\img\landing.jpg" />
     <Content Include="Assets\img\samplesurvey.png" />
     <Content Include="packages.config" />
