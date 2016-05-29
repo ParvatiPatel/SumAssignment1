@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row centered">
                 <div class="col-md-8 col-md-offset-2">
-                    <h1><strong> Jhon Deo Alex</strong>          
+                    <h1><strong> Parvati Patel</strong>          
                      
                     </h1>
                      <br /> <br /> <br />

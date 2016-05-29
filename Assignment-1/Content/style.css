@@ -91,13 +91,15 @@ p {
    ========================================================================== */
 
 #header-section {
-	background: url(../img/header.jpg) no-repeat center top;
-	margin-top: -20px;
-	padding-top:20px;
-	text-align:center;
-	background-position: center center;
-	min-height: 700px;
-	width: 100%;	
+   /* background-image: url('../Assets/img/landing.jpg');*/
+    background-image: url('../Assets/img/home.jpg');
+    /* background-image: url('../Assets/img/header.jpg');*/
+    margin-top: -20px;
+    padding-top: 20px;
+    text-align: center;
+    background-position: center center;
+    min-height: 570px;
+    width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -199,7 +201,7 @@ color: #FFFFFF;
    
 
 #footer {
-    background-color: #2F11C4; 
+    background-color: #000000; 
     color: #fff; 
     text-align: right; 
     padding: 10px 30px 10px 30px;
