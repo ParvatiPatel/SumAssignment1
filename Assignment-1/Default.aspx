@@ -11,9 +11,9 @@
                      
                     </h1>
                      <br /> <br /> <br />
-                    <h2> Web / Graphics Designer</h2>
+                    <h2> Web Developer</h2>
                      <br />
-                  <a href="#about-section">  <i class="fa fa-angle-double-down fa-5x down-icon"></i> </a>
+                  <a href="Contact.aspx">  <i class="fa fa-angle-double-down fa-5x down-icon"></i> </a>
                 </div>
             </div>
            

@@ -9,8 +9,7 @@
                 <div class="col-md-8 col-md-offset-2 " data-scrollreveal="enter top and move 100px, wait 0.3s">
                     <h1>What I can do?</h1>
                     <h4>
-                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                       
                     </h4>
                 </div>
             </div>
@@ -37,7 +36,7 @@
 
                 </div>  
                 <div class="col-md-7 col-sm-7 col-md-offset-1  text-justify" data-scrollreveal="enter right and move 100px, wait 0.4s">
-                    <h3> Lorem ipsum dolor sit amet Riopsh</h3>
+                   
                     <div class="progress">
   <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
     <span class="sr-only">94% Complete (success)</span>HTML/CSS

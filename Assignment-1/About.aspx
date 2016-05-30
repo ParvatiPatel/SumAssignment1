@@ -36,22 +36,24 @@
                 </div>
              
                 <div class="col-md-7 col-sm-7 col-md-offset-1  text-justify" data-scrollreveal="enter right and move 100px, wait 0.4s">
-                    <h3> Lorem ipsum dolor sit amet Riopsh</h3>
+                    
                     <p>
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-
+                        My alma matter is Goverment Engineering college speaks volume for me. A graduate  in Computer Science.
+                         I am not just another engineer in this entity. I am a visionary with a zeal to invent ordinary things
+                         that serve extra-ordinary purposes.
                     </p>
+
+
+
+                  
                     <p>
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                         Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                         I had studied Computer Science that basically deals with the theoritical foundation of information and computation,
+                        together with pratical techniques to implement and application of these foundation.Currently a student of Georgian college
+                         computer programming, I am learner working on my skill to  use cutting edge technology in revamping, designing and programming
+                         websites. Classical aim is to make websites easy to use.  Updating websites and redesigning to make them more handy for use is my forte.
+                        I want to develope the ability to analyze,synthesize, and design both core parts of modern computing systems and integrated application
+                         systems centered around computers through learning the scientific foundation for hardware and software engineering and applying
+                         it in engineering exercises.
 
                     </p>
                 </div>

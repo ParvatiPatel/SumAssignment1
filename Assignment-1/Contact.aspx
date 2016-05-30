@@ -47,22 +47,22 @@
                               <div class="row">
                                 <div class="col-md-6 ">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" required="required" placeholder="Subject">
+                                        <asp:TextBox ID="textboxSubject" runat="server" type="text" class="form-control" required="required" placeholder="Subject"></asp:TextBox>
                                     </div>
                                 </div>
                                 <div class="col-md-6 ">
                                     <div class="form-group">
-                                        <input type="text" class="form-control"  placeholder="Ref. (IF any)">
+                                        <asp:TextBox ID="textboxRef" runat="server" type="text" class="form-control"  placeholder="Ref. (IF any)"></asp:TextBox>
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-md-12 ">
                                     <div class="form-group">
-                                        <textarea name="message" id="message" required="required" class="form-control" rows="3"  placeholder="Message"></textarea>
+                                        <asp:TextBox ID="textboxMessage" runat="server" TextMode="MultiLine" required="required" class="form-control" rows="3"  placeholder="Message"> </asp:TextBox>
                                     </div>
                                     <div class="form-group">
-                                        <button type="submit" class="btn btn-primary">Submit Request</button>
+                                        <asp:Button ID="buttonSubmit" runat="server" Text="Submit"  class="btn btn-primary"></asp:Button>
                                     </div>
                                 </div>
                             </div>

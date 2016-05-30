@@ -72,6 +72,7 @@
     <Content Include="Assets\img\home.jpg" />
     <Content Include="Assets\img\invoice_payment_form.png" />
     <Content Include="Assets\img\landing.jpg" />
+    <Content Include="Assets\img\oldlogo.jpg" />
     <Content Include="Assets\img\samplesurvey.png" />
     <Content Include="packages.config" />
     <Content Include="Site1.Master" />
