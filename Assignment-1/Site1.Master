@@ -1,5 +1,9 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Assignment_1.Site1" %>
-
+<%--*@FileName: Master Page 1
+    *@AuthorName: Parvati Patel
+    *@Website name: PortFolio(http://sumportfolio.azurewebsites.net/Default.aspx)
+    *@File description:This is smain master page that contain all clommon features of rest pages    
+    --%>
 <!DOCTYPE html>
 
 <html>
