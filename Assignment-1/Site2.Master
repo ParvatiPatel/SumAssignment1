@@ -1,5 +1,14 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="Assignment_1.Site2" %>
 
+<%--*@FileName:
+    *@AuthorName: Parvati Patel
+    *@Website name:
+    *@File description:This is second master page that contain all clommon features of cotact page
+      
+
+
+    --%>
+
 <!DOCTYPE html>
 
 <html>
@@ -45,7 +54,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Portfolio</a>
+                <a class="navbar-brand" href="#"><img src="Assets/img/oldlogo.jpg" height="35px" width="40px" /></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">

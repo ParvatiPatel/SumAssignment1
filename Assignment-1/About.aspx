@@ -15,7 +15,7 @@
             <!-- ./ Main Heading-->
             <div class="row main-low-margin text-center">
                 <div class="col-md-3 " data-scrollreveal="enter left and move 100px, wait 0.4s">
-                   <img src="Assets/img/ahyuap_raflar__masast_duvar_karede.jpg" height="100" width="100" />
+                    <img src="Assets/img/pic3.jpg" height="150" width="150" />
                     <h4><strong>Parvati Patel </strong> </h4>
                     <p>
                         10, Vanessa Dr,<br />
@@ -26,7 +26,7 @@
                             </p>
                     <p>
                        <a href="#"><i class="fa fa-facebook-square fa-2x color-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter-square fa-2x color-twitter"></i></a>
+                        <a href="https://twitter.com/"><i class="fa fa-twitter-square fa-2x color-twitter"></i></a>
                         <a href="#"><i class="fa fa-google-plus-square fa-2x color-google-plus"></i></a>
                         <a href="#"><i class="fa fa-linkedin-square fa-2x color-linkedin"></i></a>
                        

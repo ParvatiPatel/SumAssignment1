@@ -73,7 +73,9 @@
     <Content Include="Assets\img\invoice_payment_form.png" />
     <Content Include="Assets\img\landing.jpg" />
     <Content Include="Assets\img\oldlogo.jpg" />
+    <Content Include="Assets\img\pic3.jpg" />
     <Content Include="Assets\img\samplesurvey.png" />
+    <Content Include="Assets\pic1.jpg" />
     <Content Include="packages.config" />
     <Content Include="Site1.Master" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />

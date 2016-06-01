@@ -1,5 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Skill.aspx.cs" Inherits="Assignment_1.Skill" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <!--ABOUT SECTION -->
@@ -16,7 +18,7 @@
             <!-- ./ Main Heading-->
             <div class="row main-low-margin text-center">
                    <div class="col-md-3 " data-scrollreveal="enter left and move 100px, wait 0.4s">
-                   <img src="Assets/img/ahyuap_raflar__masast_duvar_karede.jpg" height="100" width="100" />
+                       <img src="Assets/pic1.jpg" height="150" width="150" />
                     <h4><strong>Parvati Patel </strong> </h4>
                     <p>
                         10, Vanessa Dr,<br />
