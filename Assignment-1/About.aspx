@@ -1,4 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Assignment_1.About" %>
+
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 
@@ -25,10 +27,10 @@
                         Email: paro.patel@rocketmail.com<br />
                             </p>
                     <p>
-                       <a href="#"><i class="fa fa-facebook-square fa-2x color-facebook"></i></a>
-                        <a href="https://twitter.com/"><i class="fa fa-twitter-square fa-2x color-twitter"></i></a>
-                        <a href="#"><i class="fa fa-google-plus-square fa-2x color-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-linkedin-square fa-2x color-linkedin"></i></a>
+                       <a href="https://www.facebook.com/groups/664812703683885/"><i class="fa fa-facebook-square fa-2x color-facebook"></i></a>
+                        <a href="https://twitter.com/Paro_Patel"><i class="fa fa-twitter-square fa-2x color-twitter"></i></a>
+                        <a href="https://github.com/"><i class="fa fa-github fa-2x color-google-plus"></i></a>
+                        <a href="https://www.linkedin.com/home?trk=nav_responsive_tab_home"><i class="fa fa-linkedin-square fa-2x color-linkedin"></i></a>
                        
 
                     </p>

@@ -1,12 +1,9 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="Assignment_1.Site2" %>
 
-<%--*@FileName:
+<%--*@FileName: Master Page 2
     *@AuthorName: Parvati Patel
-    *@Website name:
-    *@File description:This is second master page that contain all clommon features of cotact page
-      
-
-
+    *@Website name: PortFolio()
+    *@File description:This is second master page that contain all clommon features of cotact page    
     --%>
 
 <!DOCTYPE html>
