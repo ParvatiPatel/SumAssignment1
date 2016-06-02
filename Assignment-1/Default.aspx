@@ -1,6 +1,6 @@
 ﻿
 
-<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Assignment_1.Default" %>
+<%@ Page Title="Home" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Assignment_1.Default" %>
 <%--*@FileName: Default Page
     *@AuthorName: Parvati Patel
     *@Website name: PortFolio()
